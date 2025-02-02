@@ -7,7 +7,7 @@ body {
     color: #f1f1f1; /* Light text for contrast */
 }
 
-/* Paragraph Styles for Titles (replacing h1 and h2) */
+/* Paragraph Styles for Titles  */
 p.center-text {
     text-align: center;
     margin-bottom: 30px;
