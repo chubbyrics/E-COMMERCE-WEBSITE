@@ -1,6 +1,6 @@
 const products = [
-    { name: "Macbook Pro", price: 999.99, image: "assets/Macbook_pro.png", description: "A powerful laptop for professionals and creators." },
-    { name: "IPhone 13", price: 499.99, image: "assets/iPhone_13.png", description: "The latest iPhone with improved camera and performance." },
+    { name: "Macbook Pro", price: 999.99, image: "assets/macbook_pro.png", description: "A powerful laptop for professionals and creators." },
+    { name: "IPhone 13", price: 499.99, image: "assets/iphone_13.png", description: "The latest iPhone with improved camera and performance." },
     { name: "Airpods Max", price: 99.99, image: "assets/headphones.png", description: "High-quality wireless headphones for all your music needs." },
     { name: "Garmin Vivoactive 4", price: 199.99, image: "assets/smartwatch.png", description: "A sleek smartwatch that tracks your fitness and syncs with your phone." },
     { name: "GLorious Model O", price: 49.99, image: "assets/gaming mouse.png", description: "Precision gaming mouse with customizable buttons and RGB lighting." },
